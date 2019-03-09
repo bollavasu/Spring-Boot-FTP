@@ -1,0 +1,9 @@
+
+https://www.codejava.net/java-se/networking/ftp
+
+1)mvn clean install
+
+2)mvn spring-boot:run
+
+3)http://localhost:8080/
+
